@@ -123,7 +123,7 @@ async def send_doc(client, message):
     except:
         await message.reply_text(text=f"Hello dear {message.from_user.first_name}  **we are currently working on this issue**\n\nPlease try to rename files from your another account.\nBecause this BOT can't rename file sent by some ids.\n\nIf you are an **ADMIN** Don't worry ! here we have a solution for you dear {message.from_user.first_name }.\n\nPlease use \n👉 `/addpremium your_other_userid` 👈 to use premium feautres\n\n",
                                   reply_markup=InlineKeyboardMarkup([
-                                                                     [InlineKeyboardButton("🦋 Contact Developer 🦋", url='https://t.me/Mrkiller_1109)],
+                                                                     [InlineKeyboardButton("🦋 Contact Developer 🦋", url='https://t.me/Mrkiller_1109')],
                                                                      [InlineKeyboardButton("🎀 Movies Channel 🎀", url='https://t.me/Movie_Flix_Zone')],
                                                                      [InlineKeyboardButton("🦋 Update Channel 🦋", url='https://t.me/Hpbot_update'),
                                                                      InlineKeyboardButton("Support Chat", url='https://t.me/HP_Bot_discuss_group')],
