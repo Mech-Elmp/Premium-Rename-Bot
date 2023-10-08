@@ -29,7 +29,7 @@ async def upgrade(bot,update):
 	Price Rs 199  ind /🌎 2.40$  per Month       
 	
 	
-	Pay Using Upi I'd ```hp148981@paytm```
+	Pay Using Upi I'd `hp148981@paytm`
 	
 	After Payment Send Screenshots Of Payment To Admin @Mrkiller_1109"""
 	keybord = InlineKeyboardMarkup([[ 
@@ -66,7 +66,7 @@ async def upgradecm(bot,message):
 	Price Rs 199  ind /🌎 2.40$  per Month
 	
 	
-	Pay Using Upi I'd ```hp148981@paytm```
+	Pay Using Upi I'd `hp148981@paytm`
 	
 	After Payment Send Screenshots Of Payment To Admin @Mrkiller_1109"""
 	keybord = InlineKeyboardMarkup([[ 
